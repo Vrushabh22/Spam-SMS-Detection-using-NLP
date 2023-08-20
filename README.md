@@ -13,18 +13,18 @@ The dataset utilized for the development of the spam and ham SMS detection syste
 
 The project entails both general library prerequisites and specific ones tailored to individual methods. The overarching requirements encompass the following aspects: The general requirements are as follows.
 
-python 3x
-pandas
-numpy
-scikit-learn
-nltk
-regex
-matplotlib
-collections
+-python 3x
+-pandas
+-numpy
+-scikit-learn
+-nltk
+-regex
+-matplotlib
+-collections
 
 The library requirements specific to some methods are:
 
-xgboost for XGBoost.
+-xgboost for XGBoost.
 
 Note: It is recommended to use the Anaconda distribution of Python. It already has a lot of prebuild libraries installed.
 
