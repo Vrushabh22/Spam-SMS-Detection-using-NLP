@@ -31,10 +31,10 @@ Note: It is recommended to use the Anaconda distribution of Python. It already h
 
 # Information about files
 
-Sms_Dataset.txt: Dataset utilized.
-Spam_detection.ipynb: Contains all the functions, models, and results from the project.
-report.pdf: Report of the project.
-Readme.docx: Contains instructions to run the python notebook file.
+- Sms_Dataset.txt: Dataset utilized.
+- Spam_detection.ipynb: Contains all the functions, models, and results from the project.
+- report.pdf: Report of the project.
+- Readme.docx: Contains instructions to run the python notebook file.
 
 # How to Run the project
 
